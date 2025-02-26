@@ -1,0 +1,15 @@
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\bin\Debug\net8.0\SampleSum.exe
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\bin\Debug\net8.0\SampleSum.deps.json
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\bin\Debug\net8.0\SampleSum.runtimeconfig.json
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\bin\Debug\net8.0\SampleSum.dll
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\bin\Debug\net8.0\SampleSum.pdb
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\SampleSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\SampleSum.AssemblyInfoInputs.cache
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\SampleSum.AssemblyInfo.cs
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\SampleSum.csproj.CoreCompileInputs.cache
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\SampleSum.sourcelink.json
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\SampleSum.dll
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\refint\SampleSum.dll
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\SampleSum.pdb
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\SampleSum.genruntimeconfig.cache
+C:\Clases\Docker\DOCKER-AGOSTO-2024\.net\SampleSum\obj\Debug\net8.0\ref\SampleSum.dll
